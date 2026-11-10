@@ -110,7 +110,7 @@ lat.pam.kopidannyemil/
 
 ---
 
-## 📱 Tangkapan Layar Tampilan (Screenshots)
+##  Tangkapan Layar Tampilan (Screenshots)
 
 | 1. Splash / Welcome | 2. Sign up | 3. Login User | 4. Register |
 |:---:|:---:|:---:|:---:|
