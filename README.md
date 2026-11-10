@@ -1,16 +1,16 @@
-# Kopi dan Nyemil ☕🍩
+# Kopi dan Nyemil 
 
 Aplikasi Android mobile untuk pemesanan kopi dan camilan ("Kopi dan Nyemil") yang dikembangkan menggunakan **Kotlin** dan **Jetpack Compose (Material 3)** berdasarkan spesifikasi wireframe dan alur aplikasi.
 
 ---
 
-## 📌 Deskripsi Aplikasi
+##  Deskripsi Aplikasi
 
 **Kopi dan Nyemil** adalah aplikasi pemesanan makanan dan minuman berbasis Android yang memungkinkan pengguna memilih aneka varian kopi, matcha, donat, dan roti, mengelola profil pengguna, mengisi alamat pengiriman, serta melakukan konfirmasi pemesanan dengan antarmuka modern yang responsif dan *user-friendly*.
 
 ---
 
-## ✨ Fitur Utama (8 Halaman Sesuai Wireframe)
+##  Fitur Utama (8 Halaman Sesuai Wireframe)
 
 Aplikasi ini mencakup seluruh 8 tampilan yang berada pada wireframe tugas:
 
@@ -49,7 +49,7 @@ Aplikasi ini mencakup seluruh 8 tampilan yang berada pada wireframe tugas:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - **Bahasa Pemrograman**: Kotlin 2.0+
 - **UI Framework**: Declarative UI with Jetpack Compose (Material Design 3)
@@ -61,7 +61,7 @@ Aplikasi ini mencakup seluruh 8 tampilan yang berada pada wireframe tugas:
 
 ---
 
-## 📁 Struktur Direktori Proyek
+##  Struktur Direktori Proyek
 
 ```text
 lat.pam.kopidannyemil/
@@ -92,7 +92,7 @@ lat.pam.kopidannyemil/
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+##  Cara Menjalankan Aplikasi
 
 1. **Prasyarat**:
    - Install **Android Studio** (Koala / Ladybug / version 2024.1+ direkomendasikan).
@@ -122,7 +122,7 @@ lat.pam.kopidannyemil/
 
 ---
 
-## 📝 Catatan Tugas
+##  Catatan Tugas
 
 - Seluruh data aplikasi disimpan dalam memori (*in-memory state management*) menggunakan ViewModel & StateFlow tanpa bergantung pada database eksternal.
 - Desain disesuaikan presisi dengan wireframe yang disediakan dengan peningkatan estetika modern menggunakan warna dan bentuk Material 3.
